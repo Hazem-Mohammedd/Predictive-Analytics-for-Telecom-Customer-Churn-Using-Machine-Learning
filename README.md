@@ -2,9 +2,6 @@
 
 Engineered an end-to-end Python machine learning pipeline to predict telecom customer churn. Designed a robust exploratory data analysis (EDA) and predictive modeling workflow to identify at-risk customers, empowering the business to optimize retention strategies, target marketing efforts, and reduce revenue leakage.
 
-## Project Excerpt
-Architected a data-driven machine learning solution for telecom customer retention. Built a Python-based data processing pipeline, conducted advanced statistical analysis, and deployed optimized classification models to uncover the key demographic and financial drivers of customer attrition.
-
 
 ## Business Case
 Telecommunication companies consistently struggle with high customer turnover, leading to significant revenue loss. Fragmented customer profiles and complex behavioral patterns make it difficult to identify flight risks early. This lack of predictive insight prevents marketing and retention teams from proactively targeting vulnerable customers with customized offers before they cancel their service.
